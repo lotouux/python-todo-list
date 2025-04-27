@@ -7,6 +7,7 @@ A simple to-do list project built with Python. It allows you to:
 - Remove tasks
 
 Each task has a title and a completion status indicator.
+
 All tasks are saved to a file (tasks.json) when exiting the program.
 
 # Future Improvements
